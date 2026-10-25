@@ -1,16 +1,13 @@
 {
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 10 Pro XL",
-    "FINGERPRINT": "google/mustang/mustang:17/CP3A.260905.009/16091614:user/release-keys",
+    "MODEL": "Pixel 6a",
+    "FINGERPRINT": "google/bluejay_beta/bluejay:CANARY/ZP11.260918.007/16484274:user/release-keys",
     "BRAND": "google",
-    "PRODUCT": "mustang",
-    "DEVICE": "mustang",
-    "HARDWARE": "mustang",
-    "VERSION.RELEASE": "17",
-    "ID": "CP3A.260905.009",
-    "VERSION.INCREMENTAL": "16091614",
+    "PRODUCT": "bluejay_beta",
+    "DEVICE": "bluejay",
+    "ID": "ZP11.260918.007",
     "TYPE": "user",
     "TAGS": "release-keys",
-    "VERSION.SECURITY_PATCH": "2026-09-05",
-    "VERSION.DEVICE_INITIAL_SDK_INT": "36"
+    "SECURITY_PATCH": "2026-10-05",
+    "DEVICE_INITIAL_SDK_INT": "32"
 }
