@@ -5,14 +5,14 @@
     <string-array name="config_certifiedBuildProperties" translatable="false">
         <item>MANUFACTURER:Google</item>
         <item>MODEL:Pixel 6a</item>
-        <item>FINGERPRINT:google/bluejay_beta/bluejay:CANARY/ZP11.260918.007/16484274:user/release-keys</item>
+        <item>FINGERPRINT:google/bluejay_beta/bluejay:CANARY/ZP11.261016.008/16754936:user/release-keys</item>
         <item>BRAND:google</item>
         <item>PRODUCT:bluejay_beta</item>
         <item>DEVICE:bluejay</item>
-        <item>ID:ZP11.260918.007</item>
+        <item>ID:ZP11.261016.008</item>
         <item>TYPE:user</item>
         <item>TAGS:release-keys</item>
-        <item>SECURITY_PATCH:2026-10-05</item>
+        <item>SECURITY_PATCH:2026-11-05</item>
         <item>DEVICE_INITIAL_SDK_INT:32</item>
     </string-array>
 </resources>
